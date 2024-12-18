@@ -1,18 +1,21 @@
-# 🔨 Gestion Outils (Mini Projet)
-Ce projet permet de stocker des outils, tout en s'authentifiant avec une carte RFID et un code secret qui lui est associé.
-Un espace sécurisé, permettant de suivre les outils.
-(Tout ça avec une base de données, et un site web (Admin/Client) héberger sur une Raspberry PI 4)
+# 🔨 Tools Management (Mini Project)
+This project allows you to store tools, while authenticating with an RFID card and a secret code associated with it.
+A secure space, allowing you to track tools.
+(All this with a database, and a website (Admin/Client) hosted on a Raspberry PI 4)
 
 ## 💡 Communication
 
+![image](https://github.com/user-attachments/assets/750500a0-4993-41d6-9772-5698fab2ef6e)
 
-## 📚 Interface / Exemple
+Diagram explaining the communication between the different components.
 
-Petite idée de l'interface.
+## 📚 
 
 
 
-## 📧 Crédits
+
+
+## 📧 Credits
 * [Etem](https://github.com/Etem-Source)
 * [Luka](https://github.com/Luka-Pereira)
 * [Haythem](https://github.com/Haythemchet)
