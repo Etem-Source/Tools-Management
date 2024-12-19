@@ -23,7 +23,7 @@ Who we are ?
 Contact us :
 ![image](https://github.com/user-attachments/assets/d360fd57-55ca-45e0-996a-69505d1345c3)
 
-Admin page ;
+Admin page :
 ![image](https://github.com/user-attachments/assets/995131c6-9544-44a0-bb59-96b8ec13cbbf)
 
 
